@@ -21,4 +21,4 @@ Simply download the Zip File and run on your system
 
 
 ### Preview of the app
- ![preview]()
+ ![preview](https://github.com/Abhoredaj/todolist_project/blob/main/assets/Screenshot%202023-08-08%20074945.png)
