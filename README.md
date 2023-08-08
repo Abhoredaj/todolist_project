@@ -4,7 +4,7 @@ An easy-to-use to-do list tool that lets you mark and unmark things to indicate 
 
 
 ## View app at
-#### [Todo-List]()
+#### [Todo-List](https://abhoredaj.github.io/todolist_project/)
 
 
 <hr />
@@ -12,7 +12,7 @@ An easy-to-use to-do list tool that lets you mark and unmark things to indicate 
 ### Installation Options
 
 ```
-git clone
+git clone https://github.com/Abhoredaj/todolist_project.git
 ```
 or
 
